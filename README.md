@@ -1,0 +1,2 @@
+# DiscordClone
+Aplicação web fullstack.
